@@ -1,0 +1,7 @@
+1,"Burger King",1111,Peter,Anderson,1234567890,0987654321,peter.anderson@burgerking.ca,burgerking.ca,active
+2,Metro,2222,Simon,Rudder,6473856202,8463286410,simon.rudder@metro.ca,metro.ca,archive
+3,Alphabet,333,John,Sanderson,7483567251,6382401576,john.sanderson@alphabet.ca,alphabet.ca,active
+4,test,1234,test,test,1234,1234,test@test.com,test.com,active
+5,"test 2",1234,"test 2","test 2",1234,1234,test@test.ca,test.com,active
+7,"test 4",1234,test4,test4,1234,1234,test4@test4.ca,test4.ca,archive
+8,test5,1234,test5,test5,1234,1234,test5@test.ca,,active
